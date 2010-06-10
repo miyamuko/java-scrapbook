@@ -1,69 +1,69 @@
 2005-03-28  MIYAMUKO Katsuyuki
 
-	* java-scrapbook-clipboard: ’Ç‰Á‚µ‚½‚Æ‚¢‚¢‚È‚ª‚ç’Ç‰Á‚µ‚Ä‚¢‚È‚©‚Á‚½B
+	* java-scrapbook-clipboard: è¿½åŠ ã—ãŸã¨ã„ã„ãªãŒã‚‰è¿½åŠ ã—ã¦ã„ãªã‹ã£ãŸã€‚
 
 2004-12-02  MIYAMUKO Katsuyuki
 
-	* *java-scrapbook-java5.0-import-list*: JDK 5.0 ‚Ì import •¶‚ğ’Ç‰ÁB
+	* *java-scrapbook-java5.0-import-list*: JDK 5.0 ã® import æ–‡ã‚’è¿½åŠ ã€‚
 
 2004-10-07  MIYAMUKO Katsuyuki
 
-	* java-scrapbook-javadoc-region: javadoc “à‚ÌƒR[ƒh‚ğÀs‚·‚éB
+	* java-scrapbook-javadoc-region: javadoc å†…ã®ã‚³ãƒ¼ãƒ‰ã‚’å®Ÿè¡Œã™ã‚‹ã€‚
 
 2004-09-29  MIYAMUKO Katsuyuki
 
-	* java-scrapbook-buffer: –¼‘O‚ğ•Ï‚¦‚é‚Ì‚ğ–Y‚ê‚Ä‚¢‚½ orzB
+	* java-scrapbook-buffer: åå‰ã‚’å¤‰ãˆã‚‹ã®ã‚’å¿˜ã‚Œã¦ã„ãŸ orzã€‚
 	java-scrapbook-region => java-scrapbook-buffer
 
-	* java-scrapbook: output ƒoƒbƒtƒ@‚ğì‚Á‚½‚ ‚Æ‚É .classpath ‚ğŒŸõ‚µ
-	‚Ä‚¢‚½‚Ì‚Å .classpath ‚ğŒŸõ‚Å‚«‚Ä‚¢‚È‚©‚Á‚½‚Ì‚ğC³B
+	* java-scrapbook: output ãƒãƒƒãƒ•ã‚¡ã‚’ä½œã£ãŸã‚ã¨ã« .classpath ã‚’æ¤œç´¢ã—
+	ã¦ã„ãŸã®ã§ .classpath ã‚’æ¤œç´¢ã§ãã¦ã„ãªã‹ã£ãŸã®ã‚’ä¿®æ­£ã€‚
 
 2004-09-21  MIYAMUKO Katsuyuki
 
-	* *java-scrapbook-import-regexp*: import •¶‚Ìs“ª‚Ì‹ó”’‚Í–³‹‚·‚éB
+	* *java-scrapbook-import-regexp*: import æ–‡ã®è¡Œé ­ã®ç©ºç™½ã¯ç„¡è¦–ã™ã‚‹ã€‚
 
 2004-09-13  MIYAMUKO Katsuyuki
 
-	* java-scrapbook 0.3 ƒŠƒŠ[ƒX
+	* java-scrapbook 0.3 ãƒªãƒªãƒ¼ã‚¹
 
-	* java-scrapbook-current-kill: kill ring ‚Ì•¶š—ñ‚ğ java ƒR[ƒh•Ğ‚Æ
-	‚µ‚ÄÀs‚·‚éB
+	* java-scrapbook-current-kill: kill ring ã®æ–‡å­—åˆ—ã‚’ java ã‚³ãƒ¼ãƒ‰ç‰‡ã¨
+	ã—ã¦å®Ÿè¡Œã™ã‚‹ã€‚
 
-	* java-scrapbook-clipboard: ƒNƒŠƒbƒvƒ{[ƒh‚Ì•¶š—ñ‚ğ java ƒR[ƒh•Ğ
-	‚Æ‚µ‚ÄÀs‚·‚éB
+	* java-scrapbook-clipboard: ã‚¯ãƒªãƒƒãƒ—ãƒœãƒ¼ãƒ‰ã®æ–‡å­—åˆ—ã‚’ java ã‚³ãƒ¼ãƒ‰ç‰‡
+	ã¨ã—ã¦å®Ÿè¡Œã™ã‚‹ã€‚
 
-	* java-scrapbook-command: classpath ‚ª‹ó•¶š—ñ‚Ìê‡ javac ‚ªƒGƒ‰[
-	‚É‚È‚Á‚Ä‚¢‚½‚Ì‚ğC³
+	* java-scrapbook-command: classpath ãŒç©ºæ–‡å­—åˆ—ã®å ´åˆ javac ãŒã‚¨ãƒ©ãƒ¼
+	ã«ãªã£ã¦ã„ãŸã®ã‚’ä¿®æ­£
 
 2004-09-12  MIYAMUKO Katsuyuki
 
-	* java-scrapbook 0.2 ƒŠƒŠ[ƒX
+	* java-scrapbook 0.2 ãƒªãƒªãƒ¼ã‚¹
 
-	* java-scrapbook-eclipse-classpath-entry: eclipse ‚Ì .classpath ƒt
-	ƒ@ƒCƒ‹‚ğŒŸõ‚µ‚ÄƒNƒ‰ƒXƒpƒX‚ğw’è‚Å‚«‚é‚æ‚¤‚É‚µ‚½B
+	* java-scrapbook-eclipse-classpath-entry: eclipse ã® .classpath ãƒ•
+	ã‚¡ã‚¤ãƒ«ã‚’æ¤œç´¢ã—ã¦ã‚¯ãƒ©ã‚¹ãƒ‘ã‚¹ã‚’æŒ‡å®šã§ãã‚‹ã‚ˆã†ã«ã—ãŸã€‚
 
-	* java-scrapbook-classpath: ƒNƒ‰ƒXƒpƒX‚ğw’è‚Å‚«‚é‚æ‚¤‚É‚µ‚½B
+	* java-scrapbook-classpath: ã‚¯ãƒ©ã‚¹ãƒ‘ã‚¹ã‚’æŒ‡å®šã§ãã‚‹ã‚ˆã†ã«ã—ãŸã€‚
 
 2004-09-10  MIYAMUKO Katsuyuki
 
-	* java-scrapbook-extract-import: ƒXƒNƒ‰ƒbƒv‚É import foo.bar.baz.*;
-	‚Æ‘‚¢‚Ä‚¨‚­‚Æ import •¶‚ğ’Ç‰Á‚Å‚«‚é‚æ‚¤‚É‚µ‚½B
+	* java-scrapbook-extract-import: ã‚¹ã‚¯ãƒ©ãƒƒãƒ—ã« import foo.bar.baz.*;
+	ã¨æ›¸ã„ã¦ãŠãã¨ import æ–‡ã‚’è¿½åŠ ã§ãã‚‹ã‚ˆã†ã«ã—ãŸã€‚
 
-	* java-scrapbook-as-string: *java-scrapbook-javac?-command* ‚É
-	•¶š—ñˆÈŠO‚ªw’è‚³‚ê‚½ê‡A•¶š—ñ‚É•ÏŠ·‚·‚é‚æ‚¤‚É‚µ‚½B
+	* java-scrapbook-as-string: *java-scrapbook-javac?-command* ã«
+	æ–‡å­—åˆ—ä»¥å¤–ãŒæŒ‡å®šã•ã‚ŒãŸå ´åˆã€æ–‡å­—åˆ—ã«å¤‰æ›ã™ã‚‹ã‚ˆã†ã«ã—ãŸã€‚
 
 2004-08-09  MIYAMUKO Katsuyuki
 
-	* java-scrapbook 0.1 dØ‚è’¼‚µƒŠƒŠ[ƒX
+	* java-scrapbook 0.1 ä»•åˆ‡ã‚Šç›´ã—ãƒªãƒªãƒ¼ã‚¹
 
-	* ƒTƒCƒgˆÚ“]‚É”º‚¤‚±‚Ü‚²‚Ü‚Æ‚µ‚½C³
+	* ã‚µã‚¤ãƒˆç§»è»¢ã«ä¼´ã†ã“ã¾ã”ã¾ã¨ã—ãŸä¿®æ­£
 
 2003-08-12  MIYAMUKO Katsuyuki
 
-	* ni-autoload —pƒtƒ@ƒCƒ‹‚ğ‚â‚Á‚Æ’Ç‰ÁB
+	* ni-autoload ç”¨ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ã‚„ã£ã¨è¿½åŠ ã€‚
 
-	* ‚È‚¼‚Ì Hook ‚ğ’Ç‰ÁB
+	* ãªãã® Hook ã‚’è¿½åŠ ã€‚
 
 2003-05-18  MIYAMUKO Katsuyuki
 
-	* ‰ŠúƒŠƒŠ[ƒX
+	* åˆæœŸãƒªãƒªãƒ¼ã‚¹
